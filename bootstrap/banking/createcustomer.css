@@ -1,0 +1,23 @@
+.col-sm-5{
+    float: left;
+    color: aliceblue;
+    margin-left: 20px;
+}
+.col-sm-7{
+    position: absolute;
+    margin-left: 1100px;
+    margin-top: 5px;
+}
+
+.table-title {
+    background-color: rgb(59, 114, 5);
+    height: 100px;
+    padding-top: 20px;
+}
+.text-center{
+    padding-top: 10px;
+}
+.col-md-7{
+    padding-top: 10px;
+    width: 100%;
+}
