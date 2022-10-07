@@ -1,0 +1,16 @@
+th{
+    padding-left: 40px;
+}
+td{
+    padding-left: 40px;
+
+}
+table{
+    box-shadow: aquamarine;
+    text-align: center;
+    border: 1px solid;
+}
+img{
+    width: 120px;
+    height: 150px;
+}
